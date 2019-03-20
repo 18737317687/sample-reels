@@ -1,0 +1,45 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\bin\Debug\仪器设备智能监控软件V1.0.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\bin\Debug\仪器设备智能监控软件V1.0.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.MainForm.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1.0.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1.0.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.AddDevice.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.ConnectMode.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.DengLu.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Help.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.HistoryFrom.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Open.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Selectform.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.SetIP.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Version.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.ZhuCe.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\bin\Debug\MainForm.resx
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\bin\Debug\MainForm.cs
+C:\Users\Administrator\AppData\Local\Temporary Projects\仪器设备智能监控软件V1.0\bin\Debug\MainForm.Designer.cs
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1.0.exe
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1.0.pdb
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\bin\Debug\MainForm.resx
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\bin\Debug\MainForm.cs
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\bin\Debug\MainForm.Designer.cs
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\bin\Debug\仪器设备智能监控软件V1.0.exe
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\bin\Debug\仪器设备智能监控软件V1.0.pdb
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.AddDevice.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.ConnectMode.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.DengLu.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Help.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.HistoryFrom.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.MainForm.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Open.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Selectform.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.SetIP.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.Version.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\仪器设备智能监控软件V1._0.ZhuCe.resources
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\仪器设备智能监控软件V1.0\bin\Debug\ZhuCe.Designer.cs
